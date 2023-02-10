@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi there, I'm Unity Developer</h1>
 <p align="center">My name is Anton. I love making games!</p>
+
 <h3>Technology stack</h3>
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -21,4 +22,19 @@
 <h3>Projects I worked on</h3>
 
 No experience for mow
+-->
+
+<!--
+
+<h3>Technology stack</h3>
+
+![C#](https://img.shields.io/badge/CSharp-darkblue?style=for-the-badge&logo=csharp)
+![.NEet](https://img.shields.io/badge/.NET-darkblue?style=for-the-badge&logo=dotnet)
+![Unity](https://img.shields.io/badge/UNITY-darkblue?style=for-the-badge&logo=unity)
+
+![Aseprite](https://img.shields.io/badge/Aseprite-darkblue?style=for-the-badge&logo=aseprite&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-darkblue?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+
+![GIT](https://img.shields.io/badge/GIT-darkblue?style=for-the-badge&logo=git&logoColor=white)
+
 -->
