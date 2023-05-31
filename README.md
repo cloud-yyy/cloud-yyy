@@ -1,7 +1,9 @@
+<!--
 <div align="center"><img src="https://img.freepik.com/premium-photo/cyberpunk-city-street-night-view-futuristic-city-neon-lights-night-street-scene-retro-future_742252-2105.jpg?w=1380"/></div>
 
 <h1 align="center">Hi there, I'm Unity Developer</h1>
 <p align="center">My name is Anton. I love making games!</p>
+-->
 
 <h3>Technology stack</h3>
 
